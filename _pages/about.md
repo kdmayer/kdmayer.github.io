@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+  
+## About me
 
 I am an Engineering PhD student with Martin Fischer at Stanford University
 
