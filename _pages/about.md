@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome to my website!
-
 I am a PhD student in Martin Fischer's group at Stanford University.
 
 My research focuses on the decarbonization of the built environment and integrates work in computer vision, remote sensing, and geographical information systems.
