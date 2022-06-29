@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Mayer"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Kevin"
 description              : &description "Engineering PhD Student at Stanford University"
