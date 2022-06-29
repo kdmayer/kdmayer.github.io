@@ -12,7 +12,7 @@ redirect_from:
 
 I am an Engineering PhD student with Martin Fischer at Stanford University
 
-My research focuses on the decarbonization of the built environment and integrates work in computer vision, remote sensing, and geographical information systems.
+My research focuses on the decarbonization of the building and energy sector and integrates work in computer vision, remote sensing, and geographical information systems.
 
 Before coming to Stanford University, I earned a bachelor's and master's degree in industrial engineering from TU Berlin.
 
