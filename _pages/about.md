@@ -18,7 +18,15 @@ Before coming to Stanford University, I earned a bachelor's and master's degree 
 
 ## Research 
 
+
+[![LinkedIn](https://www.flaticon.com/free-icons/linkedin.png)](https://www.linkedin.com/in/kevin-mayer-32619ab5/)
+
 All my papers can be found on [Google Scholar](https://scholar.google.com/citations?user=rdxZ30UAAAAJ&hl=de).
 
 I typically share the associated code repositories on my [GitHub](https://github.com/kdmayer).
 
+
+
+
+
+<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
