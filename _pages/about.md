@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
   
-## About me [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kevin-mayer-32619ab5/)
+## About me
 
 I am a second-year engineering PhD student with Martin Fischer at Stanford University.
 
