@@ -18,8 +18,4 @@ Before coming to Stanford University, I earned a bachelor's and master's degree 
 
 ## Research
 
-[![LinkedIn](https://github.com/kdmayer/kdmayer.github.io/blob/master/images/linkedin.png)](https://www.linkedin.com/in/kevin-mayer-32619ab5/)
-
-[![GitHub](https://github.com/kdmayer/kdmayer.github.io/blob/master/images/github.png)](https://github.com/kdmayer)
-
-[![Google Scholar](https://github.com/kdmayer/kdmayer.github.io/blob/master/images/graduation-cap.png)](https://scholar.google.com/citations?user=rdxZ30UAAAAJ&hl=de)
+[![](https://github.com/kdmayer/kdmayer.github.io/blob/master/images/linkedin.png)](https://www.linkedin.com/in/kevin-mayer-32619ab5/) [![](https://github.com/kdmayer/kdmayer.github.io/blob/master/images/github.png)](https://github.com/kdmayer) [![](https://github.com/kdmayer/kdmayer.github.io/blob/master/images/graduation-cap.png)](https://scholar.google.com/citations?user=rdxZ30UAAAAJ&hl=de)
