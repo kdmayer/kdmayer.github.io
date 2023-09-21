@@ -10,7 +10,7 @@ redirect_from:
   
 ## About me
 
-I am a second-year engineering PhD student with Martin Fischer at Stanford University.
+I am a third-year engineering PhD student with Martin Fischer at Stanford University.
 
 My research focuses on the decarbonization of the building and energy sector and integrates work in computer vision, remote sensing, and geographical information systems.
 
